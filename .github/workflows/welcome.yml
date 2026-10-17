@@ -1,11 +1,5 @@
-name: Post welcome comment
-on:
-  pull_request:
-    types: [opened]
-permissions:
-  pull-requests: write
 
-  name: Post welcome comment
+name: Post welcome comment
 on:
   pull_request:
     types: [opened]
